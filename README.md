@@ -18,4 +18,8 @@ Note: 这是一个Question2Answer开源问答的简体中文语言包，本简�
 
 ## 实例
 
-本汉化是[https123.com](http://www.https123.com)定制汉化，http://www.https123.com也提供Question2Answer中文相关讨论
+本汉化是[https123.com](http://www.https123.com)定制汉化，http://www.https123.com 也提供Question2Answer中文相关讨论
+
+## License
+
+MIT..
